@@ -1,9 +1,9 @@
 ## Amethyst: Past, Present & Future
 
 Slides from my talk given at the Mozilla Commons office in Toronto (Rust Gamedev Meetup) on 2017/07/07. For a
-stream of all talks from the meetup, see [the full recording here][am].
+stream of all talks from the meetup, see [the full recording here][ao].
 
-[am]: https://air.mozilla.org/game-developement-in-rust/
+[ao]: https://archive.org/details/Game_Development_In_Rust_2017
 
 ## License
 
